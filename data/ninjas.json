@@ -1,0 +1,23 @@
+[
+  {
+     "name":"Yoshi",
+     "belt":"green",
+     "rate":50,
+     "available":true,
+     "thumb":"https://cdn-icons-png.flaticon.com/512/1071/1071062.png"
+  },
+  {
+     "name":"Crystal",
+     "belt":"yellow",
+     "rate":30,
+     "available":true,
+     "thumb":"https://cdn-icons-png.flaticon.com/512/7070/7070249.png"
+  },
+  {
+     "name":"Ryu",
+     "belt":"orange",
+     "rate":10,
+     "available":true,
+     "thumb":"https://cdn-icons-png.freepik.com/512/1063/1063507.png"
+  }
+]
